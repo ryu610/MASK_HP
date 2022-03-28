@@ -101,7 +101,7 @@ h1{
 ul{
     display: flex;
 }
-#right{
+.right{
     display: block;
     text-align: right;
 }
